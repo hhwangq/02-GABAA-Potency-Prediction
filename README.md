@@ -108,7 +108,7 @@ clusters, indicating that structural similarity alone did not
 completely determine potency.
 
 
-![Chemical space analysis](figures/chemical_space_analysis.png)
+![Chemical space analysis](figures/pca_chemical_space.png)
 
 **Figure 1.** Exploratory analysis of the GABA-A receptor dataset,
 including pChEMBL distribution, descriptor correlations, PCA loading
